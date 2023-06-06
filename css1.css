@@ -1,0 +1,50 @@
+.header{
+background-color:lightgrey;
+width: 100%;
+height: 125px;
+
+
+
+}
+
+
+
+.Left{
+background:linear-gradient(var(--red), var(--black));
+width: 25%;
+height:1000px;
+float: left;
+}
+.Middle{
+background-color: lightblue;
+width: 50%;
+height: 1000px;
+float: left;
+
+
+
+}
+.Right{
+background-color:lightblue ;
+width: 25%;
+height: 1000px;
+float: left;
+
+
+
+
+}
+.Footer{
+background-color:lightgrey ;
+width: 100%;
+height: 50px;
+clear: both;
+
+
+
+}
+h1{
+ padding: 45px;
+
+
+}
